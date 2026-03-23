@@ -4,7 +4,9 @@
 To develop a convolutional autoencoder for image denoising application.
 
 ## Problem Statement and Dataset
+Images often contain noise due to poor lighting, camera issues, or transmission errors, which reduces their quality. This project aims to develop a Convolutional Autoencoder that can remove noise from images and produce cleaner versions.
 
+The model will be trained using noisy and clean image pairs so that it learns to reconstruct clear images. The goal is to improve image quality while preserving important details.
 
 ## DESIGN STEPS
 ### STEP 1: 
